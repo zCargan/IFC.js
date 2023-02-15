@@ -32,6 +32,6 @@ Une fois toute ces étapes faites, vous pouvez maintenant utiliser la commande :
 
 ``` npm run build ``` 
 
-Un fichier bundle.js devrait être apparu.
+Un fichier ```  bundle.js ```  devrait être apparu.
 
 Accéder à votre fichier ``` index.html ``` et clique sur ``` /src ``` afin de commencer à pouvoir explorer la librairie [IFC.js](https://ifcjs.github.io/info/) 
